@@ -1,0 +1,4 @@
+pycountry
+solana
+solders
+python-telegram-bot
